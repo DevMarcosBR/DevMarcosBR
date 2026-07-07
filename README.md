@@ -10,10 +10,7 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Sócio em uma empresa de criação de sites para negócios locais
-- 🏠 Desenvolvendo uma plataforma completa de imóveis para um cliente
 - 🌱 Estudando Desenvolvimento de Sistemas
-- 🎯 Construindo meu próprio produto SaaS do zero
 <!--
 ---
 
